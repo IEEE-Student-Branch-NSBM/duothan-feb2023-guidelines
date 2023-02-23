@@ -1,6 +1,5 @@
 # DUOTHAN 3.0 CASE STUDY
 ![11-01 (1)](https://user-images.githubusercontent.com/37685396/221017706-8d29697c-82fe-4783-ad78-a3d095e0fa48.jpg)
---------------------------------------------------------------------------------------------
 ## Connecting Patients with Medical Resources in Shortage Area
 
 **Overview**
