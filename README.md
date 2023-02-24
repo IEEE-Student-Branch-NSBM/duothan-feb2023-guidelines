@@ -88,8 +88,9 @@ This task contributes 20% of the overall competition mark for Duothan. The panel
 ### Task 04: User Frontend
 -   Search Medicine
 -   Filter Results by location
+## Further sources
 
-
+**Figma [ wireframe](https://www.figma.com/file/2xH9lbzsJpRbvaCVcgfuYY/Duothan-3.0-Wireframe?node-id=0%3A1&t=WttHhqCBQiy7Sg16-1).**
 
 ## Submission
 
